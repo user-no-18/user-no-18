@@ -6,7 +6,7 @@
 🤝 I’m looking for help with **building scalable backend systems**  
 🌱 I’m currently learning **advanced DSA patterns & system design**  
 💬 Ask me about **React, Next.js, or optimizing code logic**  
-⚡ Fun fact: **I debug faster than I cook Maggi 😎**  
+
 
 ---
 
