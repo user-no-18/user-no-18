@@ -53,16 +53,6 @@ I'm a passionate full-stack developer specializing in modern web technologies an
 <div align="center"> <img src="https://leetcard.jacoblin.cool/array_destroyer?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" /> </div>
 
 
----
-## 💫 Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=user-no-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user-no-18&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-no-18&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-</div>
-
 
 ---
 
