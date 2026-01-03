@@ -69,12 +69,7 @@ I'm a passionate full-stack developer specializing in modern web technologies an
 </div>
 
 ---
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/user-no-18/user-no-18/output/github-snake.svg" 
-    alt="Snake animation" 
-  />
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
