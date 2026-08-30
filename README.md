@@ -63,7 +63,7 @@ Final-year B.Tech (ECE) student, focused on backend engineering and distributed 
         <img src="https://cdn.simpleicons.org/mongodb/47A248" height="14"/>
       </p>
       <ul>
-        <li>Reached <b>232 active users</b> and <b>1.7K+ page views</b>.</li>
+        <li>Reached <b>200+ active users</b> and <b>2.3K+ page views</b>.</li>
         <!-- <li>Hosted coding contests and tracked problem-solving progress.</li> -->
       </ul>
     </td>
