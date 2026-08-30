@@ -7,9 +7,9 @@
 <!-- ==========================================
      TYPING ANIMATION
      ========================================== -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Backend-focused+SDE+Student;Building+Scalable+Node.js+%2B+TypeScript+Systems;Creator+of+ErithX" alt="Typing SVG" />
-</div>
+</div> -->
 
 <br>
 
@@ -130,8 +130,8 @@ Final-year B.Tech (ECE) student, focused on backend engineering and distributed 
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <i>📍 Based in Kolkata. Loves coffee, ownership, and shipping under pressure.</i>
   <br><br>
   If you’re building backend-heavy products reach out!
-</div>
+</div> -->
