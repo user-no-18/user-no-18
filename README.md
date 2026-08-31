@@ -13,26 +13,30 @@
 
 <br>
 
-### 👋 `$ whoami`
+### 👋 `About ME`
 Final-year B.Tech (ECE) student, focused on backend engineering and distributed systems. I build production-grade backends with Node.js, TypeScript, PostgreSQL, Redis, and Docker.
 
 
-> Open to remote part-time, internship, contract, or full-time roles in backend / full-stack / SDE.
+> Open to remote part-time, internship, ,or full-time roles in backend / full-stack / SDE.
 
 <br>
 
-### 🚧 Currently Building
+### 💫 Currently Building
 **[ErithX](https://erithx.dev)** – A weekly performance review system for engineering students. Turns LeetCode + Codeforces + GitHub activity into honest feedback and a focused 7-day plan.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Active_Users-200%2B-8A2BE2?style=flat&labelColor=0d1117&color=8A2BE2" />
-  <img src="https://img.shields.io/badge/Page_Views-2.3K%2B-00CED1?style=flat&labelColor=0d1117&color=00CED1" />
-  <img src="https://img.shields.io/badge/Site-erithx.dev-FF5E5B?style=flat&labelColor=0d1117&color=FF5E5B" />
+ <div align="center">
+  <img src="https://img.shields.io/badge/Active%20Users-200%2B-8A2BE2?style=for-the-badge&labelColor=0d1117" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Page%20Views-2.3K%2B-8A2BE2?style=for-the-badge&labelColor=0d1117" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/erithx.dev-Live%20↗2B-8A2BE2?style=for-the-badge&labelColor=0d1117" />
+</div>
 </div>
 
 <br>
 
-### 🚀 Selected Work
+###  ✨ Selected Work
 
 <table width="100%">
   <tr>
@@ -49,7 +53,7 @@ Final-year B.Tech (ECE) student, focused on backend engineering and distributed 
       </p>
       <ul>
         <li>Focused on scalibility & latency under 1M + load</li>
-        <!-- <li>Cut API time to <b><15ms</b> by offloading processing to background workers.</li> -->
+         <li>Cut API time to <b><15ms</b> by offloading processing to background workers.</li>
         <!-- <li>Implemented tenant isolation & Admin/Agent RBAC with dual-JWT.</li> -->
       </ul>
     </td>
@@ -75,33 +79,43 @@ Final-year B.Tech (ECE) student, focused on backend engineering and distributed 
 ### 🧬 Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   
-  <!-- Languages & Backend -->
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" title="TypeScript"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" title="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/c++/00599C" width="40" height="40" title="C++"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" title="Node.js"/>
-  <img src="https://cdn.simpleicons.org/express/888888" width="40" height="40" title="Express"/>
+  <div align="center">
 
-  <br>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="42" title="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="46" title="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" title="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="38" title="React"/>
 
-  <!-- Databases -->
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" title="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" title="MongoDB"/>
-  <img src="https://cdn.simpleicons.org/redis/FF4438" width="40" height="40" title="Redis"/>
+  <br><br>
 
-  <br>
+  <img src="https://cdn.simpleicons.org/redis/FF4438" width="44" title="Redis"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="46" title="Docker"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" title="MongoDB"/>
 
-  <!-- Infra -->
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" title="Docker"/>
-  <img src="https://cdn.simpleicons.org/vercel/888888" width="40" height="40" title="Vercel"/>
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" title="Render"/>
+  <br><br>
 
-  <br>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/express/888888" width="40" title="Express"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/888888" width="38" title="Next.js"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" title="Tailwind CSS"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/888888" width="34" title="Vercel"/>
 
-  <!-- Frontend -->
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" title="React"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/888888" width="40" height="40" title="Next.js"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" title="Tailwind CSS"/>
+  <br><br>
+
+  <img src="https://cdn.simpleicons.org/c++/00599C" width="44" title="C++"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="38" title="Render"/>
+
+</div>
 
 </div>
 
