@@ -144,8 +144,8 @@ Final-year B.Tech (ECE) student, focused on backend engineering and distributed 
 
 <br>
 
-<!-- <div align="center">
-  <i>📍 Based in Kolkata. Loves coffee, ownership, and shipping under pressure.</i>
+ <div align="center">
+  <i> 🏠 Based in Kolkata, Loves coffee 🍵, ownership, and shipping </i>
   <br><br>
-  If you’re building backend-heavy products reach out!
-</div> -->
+  If you’re building something real reach out!
+</div> 
