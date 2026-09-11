@@ -22,9 +22,9 @@ Final-year B.Tech (ECE) student, focused on backend engineering and distributed 
 <br>
 
 ### 💫 Currently Building
-**[ErithX](https://erithx.dev)** – A weekly performance review system for engineering students. Turns LeetCode + Codeforces + GitHub activity into honest feedback and a focused 7-day plan.
+**[ErithX](https://erithx.dev)** – A weekly performance review for engineering students. Analyses your comfort zone, compares week-over-week trends across LeetCode + Codeforces + GitHub, and surfaces real progress .
 
-<div align="center">
+<!-- <div align="center">
  <div align="center">
   <img src="https://img.shields.io/badge/Active%20Users-200%2B-8A2BE2?style=for-the-badge&labelColor=0d1117" />
   &nbsp;&nbsp;
@@ -32,7 +32,7 @@ Final-year B.Tech (ECE) student, focused on backend engineering and distributed 
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/erithx.dev-Live%20↗2B-8A2BE2?style=for-the-badge&labelColor=0d1117" />
 </div>
-</div>
+</div> -->
 
 <br>
 
@@ -41,7 +41,9 @@ Final-year B.Tech (ECE) student, focused on backend engineering and distributed 
 <table width="100%">
   <tr>
     <td width="50%" valign="top" style="padding: 15px;">
-      <img src="https://github.com/user-attachments/assets/25dab870-80f7-405f-b906-9064535651e5" width="100%" alt="TRACE SaaS Dashboard" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+      <a href="https://trace-ten-gamma.vercel.app/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/25dab870-80f7-405f-b906-9064535651e5" width="100%" alt="TRACE SaaS Dashboard" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+      </a>
       <h3>TRACE – Multi-Tenant SaaS</h3>
       <p><i>Employee Monitoring Platform</i></p>
       <p>
@@ -52,14 +54,23 @@ Final-year B.Tech (ECE) student, focused on backend engineering and distributed 
         <img src="https://cdn.simpleicons.org/docker/2496ED" height="14"/>
       </p>
       <ul>
-        <li>Focused on scalibility & latency under 1M + load</li>
-         <li>Cut API time to <b><15ms</b> by offloading processing to background workers.</li>
-        <!-- <li>Implemented tenant isolation & Admin/Agent RBAC with dual-JWT.</li> -->
+        <li>Focused on scalability & latency under 1M+ load</li>
+        <li>Cut API time to <b>&lt;15ms</b> by offloading processing to background workers.</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/orgs/Trace-2-0/repositories">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
+        </a>
+        <a href="https://trace-ten-gamma.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" height="40"/>
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top" style="padding: 15px;">
-      <img src="https://github.com/user-attachments/assets/eff10ee9-9fe3-4617-919a-faa66749b748" width="100%" alt="DSAQuest Platform" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
-      <h3>ErithX – Self-improvement platform for students</h3>
+      <a href="https://erithx.dev" target="_blank">
+        <img src="https://github.com/user-attachments/assets/eff10ee9-9fe3-4617-919a-faa66749b748" width="100%" alt="ErithX Platform" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+      </a>
+      <h3>ErithX – A growth platform for SDE aspirants.</h3>
       <p><i>Practice & Contests Platform</i></p>
       <p>
         <img src="https://cdn.simpleicons.org/react/61DAFB" height="14"/> 
@@ -68,8 +79,16 @@ Final-year B.Tech (ECE) student, focused on backend engineering and distributed 
       </p>
       <ul>
         <li>Reached <b>40+ active users</b>.</li>
-        <!-- <li>Hosted coding contests and tracked problem-solving progress.</li> -->
+        <li>Cut LLM cost by ∼85%</li>
       </ul>
+      <p align="center">
+        <a href="https://github.com/user-no-18/contest-tracker">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
+        </a>
+        <a href="https://erithx.dev">
+          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" height="40"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
