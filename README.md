@@ -82,7 +82,7 @@ Final-year B.Tech (ECE) student, focused on backend engineering and distributed 
         <li>Cut LLM cost by ∼85%</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/user-no-18/contest-tracker">
+        <a href="https://github.com/ErithX/Docs/blob/main/Product%20Description.md">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40"/>
         </a>
         <a href="https://erithx.dev">
